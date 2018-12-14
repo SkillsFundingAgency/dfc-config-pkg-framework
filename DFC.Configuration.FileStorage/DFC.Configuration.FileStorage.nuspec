@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DFC.Configuration.FileStorage</id>
+    <version>1.0.0</version>
+    <title>DFC.Configuration.FileStorage</title>
+    <authors>ESFA</authors>
+    <owners>ESFA</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides storage layer for shared configuration in File Storage. Will read file from app_data in format of environmentname_servicename_version.json</description>
+    <releaseNotes />
+    <dependencies>
+      <group targetFramework="net461">
+        <dependency id="DFC.Configuration" version="1.0.0"/>
+      </group>
+    </dependencies>
+  </metadata>
+</package>
