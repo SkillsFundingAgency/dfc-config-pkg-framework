@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DFC.Configuration.AzureTableStorage</id>
+    <version>1.0.0</version>
+    <title>DFC.Configuration.AzureTableStorage</title>
+    <authors>ESFA</authors>
+    <owners>ESFA</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    -->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides storage layer for shared configuration in Azure Table Storage</description>
+    <releaseNotes />
+    <dependencies>
+      <group targetFramework="net461">
+        <dependency id="WindowsAzure.Storage" version="8.7.0" />
+        <dependency id="DFC.Configuration" version="1.0.0"/>
+      </group>
+    </dependencies>
+  </metadata>
+</package>

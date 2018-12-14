@@ -1,0 +1,23 @@
+<?xml version="1.0"?>
+<package>
+  <metadata>
+    <id>DFC.Configuration</id>
+    <version>1.0.0</version>
+    <title>DFC.Configuration</title>
+    <authors>ESFA</authors>
+    <owners>ESFA</owners>
+    <!--
+    <licenseUrl></licenseUrl>
+    <projectUrl></projectUrl>
+    <iconUrl></iconUrl>
+    -->
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Provides framework for storing configuration in a persistence store based on environment</description>
+    <releaseNotes />
+    <dependencies>
+      <group targetFramework="net461">
+        <dependency id="Newtonsoft.Json" version="9.0.1" />
+      </group>
+    </dependencies>
+  </metadata>
+</package>

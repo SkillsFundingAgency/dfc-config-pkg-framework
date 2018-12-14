@@ -1,0 +1,16 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/DFC.Configuration/bin
+/DFC.Configuration/obj
+/DFC.Configuration.AzureTableStorage/bin
+/DFC.Configuration.AzureTableStorage/obj
+/DFC.Configuration.FileStorage/bin
+/DFC.Configuration.FileStorage/obj
+/DFC.Configuration.UnitTests/bin
+/DFC.Configuration.UnitTests/obj
+/GettingConfiguration/bin
+/GettingConfiguration/obj
+/packages
