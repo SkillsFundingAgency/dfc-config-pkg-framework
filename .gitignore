@@ -21,3 +21,4 @@
 /DFC.Configuration.AzureTableStorage/DFC.Configuration.AzureTableStorage.1.0.0.nupkg
 /DFC.Configuration/DFC.Configuration.csproj.user
 /DFC.Configuration/DFC.Configuration.1.0.0.nupkg
+*.user
