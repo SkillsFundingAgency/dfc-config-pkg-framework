@@ -9,8 +9,8 @@
 /DFC.Configuration.AzureTableStorage/obj
 /DFC.Configuration.FileStorage/bin
 /DFC.Configuration.FileStorage/obj
-/DFC.Configuration.UnitTests/bin
-/DFC.Configuration.UnitTests/obj
+/DFC.Configuration.Framework.Tests/bin
+/DFC.Configuration.Framework.Tests/obj
 /GettingConfiguration/bin
 /GettingConfiguration/obj
 /packages
