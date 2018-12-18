@@ -3,7 +3,7 @@ using Moq;
 using Newtonsoft.Json;
 using NUnit.Framework;
 
-namespace DFC.Configuration.UnitTests.ConfigurationServiceTests
+namespace DFC.Configuration.Framework.Tests.ConfigurationServiceTests
 {
     public class WhenGetting
     {

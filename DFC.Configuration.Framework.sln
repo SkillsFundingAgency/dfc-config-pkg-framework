@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Configuration.AzureTabl
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Configuration.FileStorage", "DFC.Configuration.FileStorage\DFC.Configuration.FileStorage.csproj", "{0C79C456-B17E-4753-AD37-12EF30C359DF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Configuration.Tests", "DFC.Configuration.UnitTests\DFC.Configuration.Tests.csproj", "{E12F5443-EE39-45A6-9261-ABDA2804C6F7}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DFC.Configuration.Framework.Tests", "DFC.Configuration.UnitTests\DFC.Configuration.Framework.Tests.csproj", "{E12F5443-EE39-45A6-9261-ABDA2804C6F7}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Samples", "Samples", "{50DE7E15-E9AD-453E-9AFD-4B2E40268F63}"
 EndProject

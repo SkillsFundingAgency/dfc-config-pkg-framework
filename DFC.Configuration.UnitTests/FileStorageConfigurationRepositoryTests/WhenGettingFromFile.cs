@@ -1,7 +1,7 @@
 ﻿using DFC.Configuration.FileStorage;
 using NUnit.Framework;
 
-namespace DFC.Configuration.UnitTests.FileStorageConfigurationRepositoryTests
+namespace DFC.Configuration.Framework.Tests.FileStorageConfigurationRepositoryTests
 {
     public class WhenGettingFromFile
     {

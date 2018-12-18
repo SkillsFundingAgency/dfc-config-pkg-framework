@@ -1,6 +1,6 @@
 ﻿using System.Collections.Generic;
 
-namespace DFC.Configuration.UnitTests
+namespace DFC.Configuration.Framework.Tests
 {
     public class TestConfiguration
     {
